@@ -1,0 +1,1 @@
+A Connect Four game that works in terminal. It can be played by either 2 players against each other or singleplayer against either an easy(random moves) opponent or a hard(checks players moves and plays accordingly) opponent.
